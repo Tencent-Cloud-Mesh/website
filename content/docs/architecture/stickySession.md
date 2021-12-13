@@ -1,5 +1,5 @@
 ---
-title: 3.3 会话保持：一致性hash负载均衡策略
+title: 3.3 一致性hash负载均衡策略
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
