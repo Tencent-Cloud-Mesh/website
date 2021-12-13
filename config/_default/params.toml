@@ -1,23 +1,23 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Tencent Cloud Mesh"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Documentation"
+description = "服务网格（Tencent Cloud Mesh, TCM），一致、可靠、透明的云原生应用通信网络管控基础平台。全面兼容 Istio，集成腾讯云基础设施，提供全托管服务化的支撑能力保障网格生命周期管理。IaaS 组网与监控组件开箱即用，跨集群、异构应用一致发现管理加速云原生迁移。"
 
 ## Documentation
-# docsVersion = "0.3"
+# docsVersion = "0.1"
 
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "doks.netlify.app"
-titleHome = "Doks Theme"
+domainTLD = "tcmesh.netlify.app"
+titleHome = "TCM"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+## twitterSite = "@getdoks"
+## twitterCreator = "@henkverlinde"
 
 ## JSON-LD
 # schemaType = "Person"
@@ -34,9 +34,9 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
+# schemaTwitter = "https://twitter.com/getdoks"
 schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaGitHub = "https://github.com/Tencent-Cloud-Mesh"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
@@ -57,7 +57,7 @@ smallLimit = "300"
 footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Copyright (c) 2020-2021 TCM"
 
 # Alert
 alert = false
@@ -69,9 +69,9 @@ alertText = "Introducing the Doks child theme, several DX + UX updates, and more
 # repoHost [Github | Gitea | GitLab] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = "https://github.com/h-enk/doks"
+docsRepo = "https://github.com/Tencent-Cloud-Mesh/website"
 docsRepoBranch = "master"
-editPage = false
+editPage = true
 
 [options]
   lazySizes = true
