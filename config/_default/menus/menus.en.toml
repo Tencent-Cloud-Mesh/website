@@ -1,14 +1,32 @@
 [[docs]]
-  name = "Prologue"
+  name = "概览"
   weight = 10
-  identifier = "prologue"
-  url = "/docs/prologue/"
+  identifier = "introduction"
+  url = "/docs/introduction/"
 
 [[docs]]
-  name = "Help"
-  weight = 60
-  identifier = "help"
-  url = "/docs/help/"
+  name = "变更发布"
+  weight = 20
+  identifier = "release"
+  url = "/docs/release/"
+
+[[docs]]
+  name = "分布式高可用架构"
+  weight = 30
+  identifier = "architecture"
+  url = "/docs/architecture/"
+
+[[docs]]
+  name = "安全隔离"
+  weight = 40
+  identifier = "isolation"
+  url = "/docs/isolation/"
+
+[[docs]]
+  name = "结语"
+  weight = 50
+  identifier = "end"
+  url = "/docs/end/"
 
 [[main]]
   name = "Docs"
@@ -18,8 +36,13 @@
 
 [[main]]
   name = "Blog"
-  url = "/blog/"
+  url = "/"
   weight = 20
+
+[[main]]
+  name = "Product"
+  url = "https://cloud.tencent.com/product/tcm"
+  weight = 15
 
 [[social]]
   name = "GitHub"
