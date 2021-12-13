@@ -1,5 +1,5 @@
 ---
-title: weightedRoute
+title: 权重路由（灰度发布）
 description: "Doks comes with commands for common tasks."
 lead: "Doks comes with commands for common tasks."
 date: 2020-10-13T15:21:01+02:00

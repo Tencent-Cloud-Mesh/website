@@ -1,5 +1,5 @@
 ---
-title: initialState
+title: 配置公网访问
 description: "Doks comes with commands for common tasks."
 lead: "Doks comes with commands for common tasks."
 date: 2020-10-13T15:21:01+02:00
@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "release"
-weight: 142
+weight: 141
 toc: true
 ---
 

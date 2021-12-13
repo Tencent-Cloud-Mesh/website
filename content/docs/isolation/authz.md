@@ -1,5 +1,5 @@
 ---
-title: auth
+title: 授权 Authorization
 description: "Doks comes with commands for common tasks."
 lead: "Doks comes with commands for common tasks."
 date: 2020-10-13T15:21:01+02:00

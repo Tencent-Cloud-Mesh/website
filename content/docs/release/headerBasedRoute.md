@@ -1,5 +1,5 @@
 ---
-title: trafficRoute
+title: 基于流量特征内容的路由
 description: "Doks comes with commands for common tasks."
 lead: "Doks comes with commands for common tasks."
 date: 2020-10-13T15:21:01+02:00
@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "release"
-weight: 141
+weight: 142
 toc: true
 ---
 ## 2.2 基于流量特征内容的路由
@@ -100,5 +100,7 @@ EOF
 配置完成后，可登陆会员帐号（ID：1-3）加购和买单，发现有运费抵扣功能，流量被路由到了order v2版本；登陆非会员账号（ID：4-5）加购和买单，发现无运费抵扣功能，根据header中的VIP字段信息，请求被路由到了最初部署的order v1版本。版本信息也可通过左下角悬浮窗中的信息观察。
 
 <img src="/images/releaseAndObserve/2-2-4.png"></img>
+
 <img src="/images/releaseAndObserve/2-2-5.png"></img>
+
 <img src="/images/releaseAndObserve/2-2-6.svg"></img>
