@@ -20,7 +20,7 @@
 
 </div>
 
-## Contribute
+## Contributing
 
 Thanks to the GitHub workflow and netlify, you can easily just edit or add the markdown files and give PRs by clicking the button in every pages. 📖
 
@@ -30,19 +30,19 @@ You do not need to rebuild the website with hugo and push it to GitHub, the CI/C
 
 Also, You can have a local development of tcm website.
 
-### 1. Clone Website
+#### 1. Clone Website
 
 ```bash
 git clone https://github.com/Tencent-Cloud-Mesh/website.git 
 ```
 
-### 2. Install dependencies
+#### 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Start development server
+#### 3. Start development server
 
 ```bash
 npm run start
