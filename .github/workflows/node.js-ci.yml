@@ -27,8 +27,5 @@ jobs:
     - name: Install dependencies
       run: npm ci
 
-    - name: Run Hyas test script
-      run: npm test
-
     - name: Build production website
       run: npm run build
