@@ -1,7 +1,7 @@
 ---
 title: 3.2 配置服务timeout
-description: "Doks comes with commands for common tasks."
-lead: "Doks comes with commands for common tasks."
+description: ""
+lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
