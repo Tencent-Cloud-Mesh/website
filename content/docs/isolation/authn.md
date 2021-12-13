@@ -1,5 +1,5 @@
 ---
-title: 认证 Authentication
+title: 4.1 认证 Authentication
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -12,7 +12,6 @@ menu:
 weight: 155
 toc: true
 ---
-## 4.1 认证Authentication
 
 背景：电商网站业务团队希望限制访问生产环境（base namespace）下所有服务间的访问必须开启双向认证mTLS，以防御中间人攻击。
 

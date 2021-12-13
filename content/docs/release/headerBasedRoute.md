@@ -1,5 +1,5 @@
 ---
-title: 基于流量特征内容的路由
+title: 2.2 基于流量特征内容的路由
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -12,7 +12,6 @@ menu:
 weight: 142
 toc: true
 ---
-## 2.2 基于流量特征内容的路由
 
 <img src="/images/releaseAndObserve/2-2-6.svg"></img>
 

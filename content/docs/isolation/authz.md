@@ -1,5 +1,5 @@
 ---
-title: 授权 Authorization
+title: 4.2 授权 Authorization
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -12,7 +12,6 @@ menu:
 weight: 156
 toc: true
 ---
-## 4.2 授权Authorization
 
 背景：生产环境（base namespace）的服务已经稳定运行，电商网站业务团队希望对网格中的服务做权限控制，限制生产环境（base namespace）下的服务不能被测试环境（test namesapce）下的服务访问。
 

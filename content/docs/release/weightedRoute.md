@@ -1,5 +1,5 @@
 ---
-title: 权重路由（灰度发布）
+title: 2.3 权重路由（灰度发布）
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -12,7 +12,6 @@ menu:
 weight: 143
 toc: true
 ---
-## 2.3 权重路由（灰度发布）
 
 <img src="/images/releaseAndObserve/2-3-1.svg"></img>
 

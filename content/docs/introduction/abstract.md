@@ -1,5 +1,5 @@
 ---
-title: Demo 概览
+title: 1.2 Demo 概览
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -12,8 +12,6 @@ menu:
 weight: 100
 toc: true
 ---
-
-## 1.2 Demo概览
 
 Demo是一个电商网站，由6个服务组成：
 - frontend：网站前端，调用user、product、cart、order服务

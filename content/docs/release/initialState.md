@@ -1,5 +1,5 @@
 ---
-title: 配置公网访问
+title: 2.1 配置公网访问
 description: ""
 lead: ""
 date: 2020-10-13T15:21:01+02:00
@@ -12,8 +12,6 @@ menu:
 weight: 141
 toc: true
 ---
-
-## 2.1 配置公网访问
 
 体验环境创建完成后，网站所有服务已经部署至广州的集群（product服务和order服务只部署了v1版本），并且已自动注入了envoy sidecar接管服务流量，istio-ingressgateway已经创建，但未配置监听器规则以及路由规则以放通网站frontend服务至公网。
 
