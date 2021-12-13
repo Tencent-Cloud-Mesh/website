@@ -4,7 +4,7 @@
 </a>
 
 <h1 align="center">
-  TCM Website
+  TCM Website ☁️
 </h1>
 
 <h3 align="center">
@@ -15,18 +15,18 @@
 </h3>
 
 <p align="center">
-  Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
+  TCM Website will give you some details about using Tencent Cloud Mesh, including a demo which can be run in TKE and managed by TCM
 </p>
 
 </div>
 
 ## Contribute
 
-Thanks to the GitHub workflow and netlify, you can easily just edit or add the markdown files and give PRs by clicking the button in every pages. 
+Thanks to the GitHub workflow and netlify, you can easily just edit or add the markdown files and give PRs by clicking the button in every pages. 📖
 
-<img src="assets/images/edit.png" alt="Logo" width="50%" >
+<img src="assets/images/edit.png" alt="Logo" width="40%" >
 
-You do not need to rebuild the website with hugo and push it to GitHub, the CI/CD piplines will help you do everything.
+You do not need to rebuild the website with hugo and push it to GitHub, the CI/CD piplines will help you do everything. 😊
 
 Also, You can have a local development of tcm website.
 
