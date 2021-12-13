@@ -31,13 +31,12 @@
 [[main]]
   name = "Docs"
   url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
-[[main]]
-  name = "Blog"
-  url = "/"
-  weight = 20
+#[[main]]
+#  name = "Blog"
+#  url = "/"
+#  weight = 20
 
 [[main]]
   name = "Product"
