@@ -22,13 +22,13 @@
 
 ## Contributing
 
-Thanks to the GitHub workflow and netlify, you can easily just edit or add the markdown files and give PRs by clicking the button in every pages. 📖
+Thanks to the GitHub workflow and netlify, you can easily make contributions.
 
-<img src="assets/images/edit.png" alt="Logo" width="40%" >
+You just need to edit or add the markdown files and give PRs by clicking the `edit` button in every pages. 📖
 
 You do not need to rebuild the website with hugo and push it to GitHub, the CI/CD piplines will help you do everything. 😊
 
-Also, You can have a local development of tcm website.
+Also, You can have a local development of tcm website if you need.
 
 #### 1. Clone Website
 
